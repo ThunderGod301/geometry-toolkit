@@ -1,1 +1,15 @@
-This is a 2D calculator for shapes. It displays the calculation done so that you can check it. Any suggestions on improvements or additions will be greatly appreciated.
+# Geometry Calculator
+
+A web-based geometry calculator that provides formulas, calculations, and visualisations for a wide range of geometric shapes.
+
+## Live Demo
+
+[Link goes here after deployment]
+
+## Author
+
+Aarush Bhavsar
+
+## License
+
+This project is licensed under the MIT License.
