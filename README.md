@@ -12,4 +12,9 @@ BlueBlaze01(Aarush Bhavsar)
 
 ## License
 
-This project is licensed under the MIT License.
+All Rights Reserved.
+
+The source code for this project may be viewed publicly, but no rights are granted to use, reproduce, modify, distribute, or monetize any part of the project without the author's explicit written permission.
+
+See the LICENSE file for details.
+
